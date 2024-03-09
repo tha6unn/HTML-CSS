@@ -1,0 +1,130 @@
+.square{
+    width: 400px;
+    border-width: 1px;
+    border-style: solid;
+    height: 130px;
+    padding-left: 20px;
+    font-size: 20px;
+    display: inline-block;
+}
+button{
+    font-size: 20px;
+}
+.music{
+    width: 370px;
+    border-width: 1px;
+    border-style: solid;
+    height: 130px;
+    padding-top: 10px;
+    padding-left: 20px;
+    border: none;    
+    margin-top: 70px;
+    font-family: Roboto, Arial, sans-serif;
+    background-color: rgb(33, 33, 33);
+    color: rgb(160, 160, 160);
+    margin-bottom: 30px;
+    display: block;
+
+}
+.install{
+    
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+}
+.pew{
+    display: inline-block;
+    margin-left: 100px;
+    width: 550px;
+    border: none;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.3);
+}
+.cat{
+    width: 80px;
+    height: 80px;
+    border-radius: 2000px;
+    object-fit: cover;
+    vertical-align: middle;
+    border-style: solid;
+    border-color: red;
+}
+.tweet{
+    margin-top: 0;
+    font-size: 20px;
+    vertical-align: middle;
+    border: none;
+    border-width: 0px;
+    padding-right: 100px;
+}
+.tweet:focus{
+    outline: none;
+}
+.btn{
+    font-size: 20px;
+    vertical-align: middle;
+    border: none;
+    color: white;
+    background-color: rgb(29, 155, 240);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 100px;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-right: 20px;
+    transition: opacity 0.15s;
+    
+}
+.btn:active{
+    opacity: 0.5;
+}
+.face,.face1,.face2{
+    width: 220px;
+    font-family:arial;
+    margin-top: 0;
+    margin-bottom: 0;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.3);
+    margin-left: 30px;
+    display: inline-block;
+    
+}
+
+.face-cat{
+    height: 250px;
+    width: 220px;
+    object-fit: cover;
+}
+.title,.title1,.title2{
+    font-weight: bold;
+    font-size: 20px;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 0;
+
+}
+.subtitle,.subtitle1,.subtitle2{
+    font-size: 18px;
+    padding-left: 10px;
+    margin-top: 5px;
+    color: rgb(120, 119, 119);
+    font-weight: normal;
+    margin-bottom: 0;
+}
+.face-button{
+    margin-left: 10px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    padding-top: 8px;
+    padding-left: 17px;
+    padding-bottom: 9px;
+    padding-right: 17px;
+    border-radius: 9px;
+    background-color:rgb(24, 119, 242);
+    color: white;
+    border: none;
+    font-size: 18px;
+}

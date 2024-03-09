@@ -1,0 +1,100 @@
+.btn1{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+    
+}
+.one{
+    font-size: 20px;
+    margin-right: 10px;
+    margin-left: 15px;
+}
+.two{
+    font-size: 20px;
+    margin-right: 10px;
+}
+.three{
+    font-size: 20px;
+    margin-right: 10px;
+}
+.four{
+    font-size: 20px;
+    margin-right: 10px;
+}
+.five{
+    font-size: 20px;
+    
+}
+.btn2{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+    margin-left:  15px;
+}
+.btn3{
+    margin-top: 50px;
+    background-color: green;
+    color: white;
+    padding-right: 20px;
+    padding-left: 20px;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    transition: padding 1s;
+
+}
+.btn3:hover{
+   padding: 30px;
+   font-size: 20px;
+    
+}
+.btn4{
+    margin-top: 20px;
+    background-color: green;
+    color: white;
+    font-size: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.5);
+    transition: margin-top 1s,margin-left 1s,box-shadow 1s;
+}
+.btn4:active{
+    margin-top: 30px;
+    margin-left: 10px;
+    box-shadow: none;
+
+
+}
+.btn5 {
+    background-color: green;
+    color: white;
+    border: none;
+    font-size: 18px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    cursor: pointer;
+
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 50px;
+
+    transition: padding 0.5s,
+      margin 0.5s;
+  }
+
+  .btn5:hover {
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-left: 0px;
+    margin-right: 0px;
+  }

@@ -1,0 +1,49 @@
+div{
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto;
+    font-size: 20px;
+   }
+p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}.main{
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 600px;
+}
+.pics,.stats{
+    display:inline-block;
+    vertical-align: top;
+    margin-left: 10px;
+    margin-bottom: 15px;
+}
+.pic1{
+    width: 366.4px;
+    height: 206.4px;
+    border-radius: 10px;
+    
+}
+.thumbnail,.thumbnail2{
+    font-size: 16px;
+    font-weight: bold;
+    width: 300px;
+}
+.channel-name{
+    padding-top: 10px;
+    font-size: 16px;
+    color: rgb(122, 121, 121);
+}
+.views{
+    font-size: 16px;
+    color: rgb(122, 121, 121);
+}
+.thumbnail2{
+    width: 310px;
+}
+img{
+    transition: border-radius 0.3s;
+}
+img:hover{
+    border-radius: 0;
+
+}
